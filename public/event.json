@@ -1,0 +1,62 @@
+[
+  {
+    "id": "event_001",
+    "name": "Tech Innovators Conference 2025",
+    "thumbnail": "https://i.postimg.cc/Y2fCd7D6/chuttersnap-a-En-H4h-J-Mrs-unsplash.jpg",
+    "category": "Technology",
+    "date": "2025-05-15",
+    "location": "Dhaka Convention Center, Dhaka",
+    "entry_fee": 500,
+    "description": "An exclusive gathering of tech leaders and innovators from around the world."
+  },
+  {
+    "id": "event_002",
+    "name": "Digital Marketing Summit 2025",
+    "thumbnail": "https://i.postimg.cc/Pf4dm4NQ/stem-list-EVgs-Ab-L51Rk-unsplash.jpg",
+    "category": "Marketing",
+    "date": "2025-06-10",
+    "location": "Bangabandhu International Conference Center, Dhaka",
+    "entry_fee": 300,
+    "description": "A grand event focusing on new trends and tools in digital marketing."
+  },
+  {
+    "id": "event_003",
+    "name": "Startup Expo Bangladesh",
+    "thumbnail": "https://i.postimg.cc/pTMPBcDQ/al-elmes-ULHx-Wq8reao-unsplash.jpg",
+    "category": "Business",
+    "date": "2025-07-05",
+    "location": "International Convention City Bashundhara, Dhaka",
+    "entry_fee": 200,
+    "description": "Showcasing the most innovative startups and business ideas from across Bangladesh."
+  },
+  {
+    "id": "event_004",
+    "name": "AI & Robotics Workshop 2025",
+    "thumbnail": "https://i.postimg.cc/QdRDXYYw/andrei-stratu-kc-Js-Q3PJr-YU-unsplash.jpg",
+    "category": "Technology",
+    "date": "2025-08-12",
+    "location": "Daffodil Smart City, Dhaka",
+    "entry_fee": 800,
+    "description": "Hands-on workshop covering AI, machine learning, and robotics engineering."
+  },
+  {
+    "id": "event_005",
+    "name": "Creative Design Expo",
+    "thumbnail": "https://i.postimg.cc/Fzs5PM10/alexandre-pellaes-6v-Ajp0psc-X0-unsplash.jpg",
+    "category": "Design",
+    "date": "2025-09-20",
+    "location": "Shilpakala Academy, Dhaka",
+    "entry_fee": 150,
+    "description": "A colorful exhibition featuring the best works of graphic and UI/UX designers."
+  },
+  {
+    "id": "event_006",
+    "name": "Youth Leadership Forum 2025",
+    "thumbnail": "https://i.postimg.cc/Pf4dm4NQ/stem-list-EVgs-Ab-L51Rk-unsplash.jpg",
+    "category": "Leadership",
+    "date": "2025-10-14",
+    "location": "Rajshahi University Auditorium, Rajshahi",
+    "entry_fee": 250,
+    "description": "A platform to build leadership qualities among young achievers and students."
+  }
+]
